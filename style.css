@@ -34,6 +34,7 @@ h1
 {
     grid-column: 1/-1;
     text-align: center;
+    font-style: italic;
 }
 
 @media (max-width:750px) and (min-width:381px)
