@@ -11,5 +11,8 @@
     > git commit -m "first commit"
 - ellenőrzés:
     > git status
-- az összes verzió megjelenitése
+- az összes verzió megjelenitése:
     > git log
+- távoli repo létrehozása: **Github**
+- helyi repo összekapcsolása a  távolival:
+    > git remote add origin https:// **token@** github.com/Ryshh/repoName.git
